@@ -25,7 +25,7 @@ This graph is similar to the previous graph but now we are breaking it down base
 
 ### Trips by Weekday for Each Hour
 ![Trips by Weekday for Each Hour](https://github.com/RyanWhited/bikesharing/blob/main/images/NYCCitibike(5).jpg)
-Here we graphed the number of bike trips by weekday for each hour of the day as a heatmap. The results are similar to our August Peak Hours bar chart in that it reflects there being more use around rush hour. Thursday seems to be the day of the week. 
+Here we graphed the number of bike trips by weekday for each hour of the day as a heatmap. The results are similar to our August Peak Hours bar chart in that it reflects there being more use around rush hour. For an unknown reason, Thursday is the busiest day of the week. 
 
 ### Trips by Gender (Weekday Per Hour)
 ![Trips by Gender (Weekday Per Hour)](https://github.com/RyanWhited/bikesharing/blob/main/images/NYCCitibike(6).jpg)
